@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# Dependency Directories
+/node_modules
+/bower_components
